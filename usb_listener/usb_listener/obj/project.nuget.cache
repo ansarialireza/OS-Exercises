@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rtNVBK0Zvvin59fDqEEsrT09g8utV+kWph/ifx7hNMdhfhZul6rXI7WaHDhYvTxAodkxEU53HSKfM15eMZSi1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ansar\\source\\c#\\usb_listener\\usb_listener\\usb_listener.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ansar\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\ansar\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
