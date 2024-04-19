@@ -1,0 +1,17 @@
+C:\Users\ansar\source\c#\profile_app\profile_app\obj\Debug\net6.0\profile_app.csproj.AssemblyReference.cache
+C:\Users\ansar\source\c#\profile_app\profile_app\obj\Debug\net6.0\profile_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ansar\source\c#\profile_app\profile_app\obj\Debug\net6.0\profile_app.AssemblyInfoInputs.cache
+C:\Users\ansar\source\c#\profile_app\profile_app\obj\Debug\net6.0\profile_app.AssemblyInfo.cs
+C:\Users\ansar\source\c#\profile_app\profile_app\obj\Debug\net6.0\profile_app.csproj.CoreCompileInputs.cache
+C:\Users\ansar\source\c#\profile_app\profile_app\bin\Debug\net6.0\profile_app.exe
+C:\Users\ansar\source\c#\profile_app\profile_app\bin\Debug\net6.0\profile_app.deps.json
+C:\Users\ansar\source\c#\profile_app\profile_app\bin\Debug\net6.0\profile_app.runtimeconfig.json
+C:\Users\ansar\source\c#\profile_app\profile_app\bin\Debug\net6.0\profile_app.dll
+C:\Users\ansar\source\c#\profile_app\profile_app\bin\Debug\net6.0\profile_app.pdb
+C:\Users\ansar\source\c#\profile_app\profile_app\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ansar\source\c#\profile_app\profile_app\obj\Debug\net6.0\profile_app.csproj.CopyComplete
+C:\Users\ansar\source\c#\profile_app\profile_app\obj\Debug\net6.0\profile_app.dll
+C:\Users\ansar\source\c#\profile_app\profile_app\obj\Debug\net6.0\refint\profile_app.dll
+C:\Users\ansar\source\c#\profile_app\profile_app\obj\Debug\net6.0\profile_app.pdb
+C:\Users\ansar\source\c#\profile_app\profile_app\obj\Debug\net6.0\profile_app.genruntimeconfig.cache
+C:\Users\ansar\source\c#\profile_app\profile_app\obj\Debug\net6.0\ref\profile_app.dll
