@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "MrxNd+7fpflwh16EzqIDHHSJ7d4fZoQI7FiYaRE7b4eYD05Nq+HYwiKd7ijDCN6vOd+7xDFFmo9pEuTm3HV2tQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ansar\\source\\c#\\Client\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ansar\\.nuget\\packages\\easyfiletransfer\\0.1.5\\easyfiletransfer.0.1.5.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'EasyFileTransfer 0.1.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "EasyFileTransfer",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
